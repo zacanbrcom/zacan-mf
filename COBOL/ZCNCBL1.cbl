@@ -10,11 +10,8 @@
        PROGRAM-ID.             ZCNCBL1.
        AUTHOR.                 ZACAN01.
          
-
-       PROCEDURE DIVISION_S.
-       COPY CUSTOMER. 
-      
-       MOVES 'THIS IS A SIMPLE NOTE FOR TEST PURPOSE' TO NOTES.
-       DISPLAY NOTES.
+       DATA DIVISION.
+       PROCEDURE DIVISION.
+       COPY NSTCOPY1.
 
        STOP RUN.
