@@ -12,6 +12,6 @@
          
        DATA DIVISION.
        PROCEDURE DIVISION.
-       COPY NSTCOPY1.
+       COPY NSTCOPY6.
 
        STOP RUN.
